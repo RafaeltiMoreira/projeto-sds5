@@ -6,6 +6,7 @@ Criação de página de vendas dinâmica com banco de dados.
 ## Tecnologias 🛠️
 
 - HTML;
+- CSS;
 - Bootstrap;
 - JavaScript;
 - Typescript;
