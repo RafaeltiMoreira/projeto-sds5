@@ -33,4 +33,5 @@ Abra `http://localhost: 8080` para visualizá-lo no navegador.
 <img width="100%" height="100%" src="https://i.imgur.com/6dM7mTZ.png">
 </p>
 
+## [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://github.com/RafaeltiMoreira/projeto-sds5/blob/main/LICENSE)
 
