@@ -16,7 +16,7 @@ Criação de página de vendas dinâmica com banco de dados.
 - Postgres;
 - Postman;
 - Netlify;
-- Spring Boot.
+- Spring Tools.
 
 ## Scripts
 
